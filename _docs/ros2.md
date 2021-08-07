@@ -1,3 +1,8 @@
+---
+layout: default
+title: ROS2 Getting Started
+parent: Documentation
+---
 # ROS2 Tutorials
 ## Set locale
 
